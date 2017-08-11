@@ -9,9 +9,9 @@ build:
   verbosity: normal
 #after_build:
 #  - ps: .\package-ERMine.ps1
-#artifacts:
-#  - path: ERMine.Core\bin\Debug
-#    name: Framework
+artifacts:
+  - path: Console\bin\Debug
+    name: Console
 #  - path: ERMine.Drawing\bin\Debug
 #    name: Drawing-CLI
 #  - path: .nupkg\*.nupkg
