@@ -38,7 +38,7 @@
                 string collectionName = ConfigurationManager.AppSettings["collection"];
 
                 // Let's check if the database and collection exist, or if they need to be created
-                SetupDocDb(endpointUrl, primaryKey, databaseId, collectionName).Wait();
+                SetupGraphDb(endpointUrl, primaryKey, databaseId, collectionName).Wait();
 
                 // Time to upload the graph
                 Console.WriteLine("Uploading the graph now...");
@@ -95,7 +95,7 @@
             Console.Read();
         }
 
-        static async Task<bool> SetupDocDb(string endpointUrl, string primaryKey, string databaseId, string collectionName)
+        static async Task<bool> SetupGraphDb(string endpointUrl, string primaryKey, string databaseId, string collectionName)
         {
             try
             {

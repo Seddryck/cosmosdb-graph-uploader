@@ -79,8 +79,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Csv\CsvProfile.cs" />
+    <Compile Include="Csv\CsvReader.cs" />
     <Compile Include="EnumerableExtensions.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="ProgressStatusEventArgs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
