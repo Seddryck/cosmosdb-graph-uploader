@@ -1,0 +1,332 @@
+repo_name: Seddryck/cosmosdb-graph-uploader
+report_id: d03ed5e8d2b94cef367743dc41f4c532
+repo_type: Public
+timestamp: '2023-11-12T20:23:33+00:00'
+requested_by: Seddryck
+provider: github
+branch: master
+detected_tools_count: 24
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: 4.5.2
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: Console/CosmosDbGraphUploader.Console.csproj
+  detection_source: Console/CosmosDbGraphUploader.Console.csproj
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Roslyn
+  description: Open-source C# and Visual Basic compilers with rich code analysis APIs
+  website_url: https://github.com/dotnet/roslyn
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/20930/default_275fb27c037c57f3394917ebca90dc2465c97ed8.png
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source: CosmosDbGraphUploader.sln
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Microsoft Azure
+  description: Integrated cloud services and infrastructure to support computing,
+    database, analytics, mobile, and web scenarios.
+  website_url: https://azure.microsoft.com/en-us/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Cloud Hosting
+  image_url: https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Microsoft.Azure.DocumentDB
+  description: This client library enables client applications to connect to Azure
+    Cosmos DB via the SQL API
+  package_url: https://www.nuget.org/Microsoft.Azure.DocumentDB
+  version: 1.14.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13231/default_44258eb565a346d4baf5243c0df2a219253fec1a.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Microsoft.CodeAnalysis.Analyzers
+  description: Analyzers for consumers of Microsoft.CodeAnalysis NuGet package, i.e
+  package_url: https://www.nuget.org/Microsoft.CodeAnalysis.Analyzers
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13342/default_a8c5a9d917d12544e0591a4182335d690601b375.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Microsoft.CodeAnalysis.CSharp
+  description: ".NET Compiler Platform"
+  package_url: https://www.nuget.org/Microsoft.CodeAnalysis.CSharp
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12967/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Microsoft.CodeAnalysis.Common
+  description: A shared package used by the Microsoft .NET Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeAnalysis.Common
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13243/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 10.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+  vulnerabilities:
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: System.Collections
+  description: Provides classes that define generic collections
+  package_url: https://www.nuget.org/System.Collections
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Collections.Immutable
+  description: This package provides collections that are thread safe and guaranteed
+    to never change their contents, also known as immutable collections
+  package_url: https://www.nuget.org/System.Collections.Immutable
+  version: 1.1.37
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12881/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Diagnostics.Debug
+  description: Provides classes and attributes that allows basic interaction with
+    a debugger
+  package_url: https://www.nuget.org/System.Diagnostics.Debug
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Globalization
+  description: Provides classes that define culture-related information
+  package_url: https://www.nuget.org/System.Globalization
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12895/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Linq
+  description: Provides classes and interfaces that supports queries that use Language-Integrated
+    Query
+  package_url: https://www.nuget.org/System.Linq
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Reflection.Metadata
+  description: This packages provides a low-level .NET
+  package_url: https://www.nuget.org/System.Reflection.Metadata
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13093/default_8ec8443385d582f19f93b79f0dcf69f422e58967.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Resources.ResourceManager
+  description: Provides classes and attributes that allow developers to create, store,
+    and manage various culture-specific resources used in an application
+  package_url: https://www.nuget.org/System.Resources.ResourceManager
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Runtime
+  description: Provides the fundamental primitives
+  package_url: https://www.nuget.org/System.Runtime
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Runtime.Extensions
+  description: Provides commonly-used classes for performing mathematical functions,
+    conversions, string comparisons and querying environment information
+  package_url: https://www.nuget.org/System.Runtime.Extensions
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Threading
+  description: Provides the fundamental synchronization primitives, including System.Threading.Monitor
+    and System.Threading.Mutex, that are required when writing asynchronous code
+  package_url: https://www.nuget.org/System.Threading
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
+- name: System.Threading.Tasks.Dataflow
+  description: TPL Dataflow promotes actor/agent-oriented designs through primitives
+    for in-process message passing, dataflow, and pipelining
+  package_url: https://www.nuget.org/System.Threading.Tasks.Dataflow
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13058/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: Console/packages.config
+  detection_source: Console/packages.config
+  last_updated_by: Cédric L. Charlier
+  last_updated_on: 2017-08-10 19:03:40.000000000 Z
