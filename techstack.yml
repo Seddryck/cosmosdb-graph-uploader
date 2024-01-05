@@ -1,7 +1,8 @@
 repo_name: Seddryck/cosmosdb-graph-uploader
 report_id: d03ed5e8d2b94cef367743dc41f4c532
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-12T20:23:33+00:00'
+timestamp: '2024-01-05T08:48:09+00:00'
 requested_by: Seddryck
 provider: github
 branch: master
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: Console/CosmosDbGraphUploader.Console.csproj
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/CosmosDbGraphUploader.Console.csproj
   detection_source: Console/CosmosDbGraphUploader.Console.csproj
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader
   detection_source: Repo Metadata
 - name: NuGet
   description: The package manager for .NET
@@ -61,6 +65,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -73,6 +78,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/20930/default_275fb27c037c57f3394917ebca90dc2465c97ed8.png
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -85,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/CosmosDbGraphUploader.sln
   detection_source: CosmosDbGraphUploader.sln
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -97,6 +104,7 @@ tools:
   category: Application Hosting
   sub_category: Cloud Hosting
   image_url: https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -110,7 +118,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13231/default_44258eb565a346d4baf5243c0df2a219253fec1a.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -124,7 +132,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13342/default_a8c5a9d917d12544e0591a4182335d690601b375.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -138,7 +146,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12967/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -152,7 +160,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13243/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -166,13 +174,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -186,7 +200,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12855/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -201,7 +215,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12881/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -215,7 +229,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12887/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -228,7 +242,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12895/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -242,7 +256,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12857/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -256,7 +270,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13093/default_8ec8443385d582f19f93b79f0dcf69f422e58967.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -270,7 +284,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12898/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -283,7 +297,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12849/default_0f5233770e71818507f2339042e7e61bef904e70.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -297,7 +311,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12872/default_1763b424d3c06c730dd020813f1a1a6ffb953bc2.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -311,7 +325,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12861/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
@@ -326,7 +340,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13058/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: Console/packages.config
+  detection_source_url: https://github.com/Seddryck/cosmosdb-graph-uploader/blob/master/Console/packages.config
   detection_source: Console/packages.config
   last_updated_by: Cédric L. Charlier
   last_updated_on: 2017-08-10 19:03:40.000000000 Z
